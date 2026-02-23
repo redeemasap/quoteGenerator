@@ -1,0 +1,5 @@
+{
+  "name": "Motivational Quote Generator",
+  "description": "An application that generates motivational quotes with beautiful gradient backgrounds.",
+  "requestFramePermissions": []
+}
